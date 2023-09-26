@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "title": "How do you prefer to spend your time when working on a project?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Solving complex problems"
+        },
+        {
+          "id": 2,
+          "text": "Designing user interfaces"
+        },
+        {
+          "id": 3,
+          "text": "Writing code and developing software"
+        },
+        {
+          "id": 4,
+          "text": "Collaborating with team members"
+        }
+      ]
+    },
+    {
+      "title": "Which of the following best describes your communication style?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Precise and technical"
+        },
+        {
+          "id": 2,
+          "text": "Creative and visual"
+        },
+        {
+          "id": 3,
+          "text": "Logical and systematic"
+        },
+        {
+          "id": 4,
+          "text": "Collaborative and empathetic"
+        }
+      ]
+    },
+    {
+      "title": "What do you enjoy doing in your free time?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Reading about new technologies"
+        },
+        {
+          "id": 2,
+          "text": "Sketching or designing"
+        },
+        {
+          "id": 3,
+          "text": "Coding personal projects"
+        },
+        {
+          "id": 4,
+          "text": "Volunteering or helping others"
+        }
+      ]
+    },
+    {
+      "title": "What is your preferred work environment?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "A quiet space with minimal distractions"
+        },
+        {
+          "id": 2,
+          "text": "A creative and visually inspiring workspace"
+        },
+        {
+          "id": 3,
+          "text": "A collaborative and dynamic team environment"
+        },
+        {
+          "id": 4,
+          "text": "Anywhere, as long as I have my laptop and internet connection"
+        }
+      ]
+    },
+    {
+      "title": "How do you handle problem-solving?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Analyze the problem thoroughly and break it down into smaller parts"
+        },
+        {
+          "id": 2,
+          "text": "Brainstorm creative solutions"
+        },
+        {
+          "id": 3,
+          "text": "Write code to create a solution"
+        },
+        {
+          "id": 4,
+          "text": "Seek input and ideas from others"
+        }
+      ]
+    },
+    {
+      "title": "Which of the following programming languages or tools are you most interested in?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Python"
+        },
+        {
+          "id": 2,
+          "text": "Adobe Creative Suite (e.g., Photoshop, Illustrator)"
+        },
+        {
+          "id": 3,
+          "text": "JavaScript"
+        },
+        {
+          "id": 4,
+          "text": "Good with multiple languages or not sure yet"
+        }
+      ]
+    },
+    {
+      "title": "What motivates you the most?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Solving complex technical challenges"
+        },
+        {
+          "id": 2,
+          "text": "Creating aesthetically pleasing designs"
+        },
+        {
+          "id": 3,
+          "text": "Building functional and efficient software"
+        },
+        {
+          "id": 4,
+          "text": "Being part of a supportive team"
+        }
+      ]
+    },
+    {
+      "title": "What is your preferred method for learning new skills?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Online courses and technical documentation"
+        },
+        {
+          "id": 2,
+          "text": "Watching design tutorials and experimenting"
+        },
+        {
+          "id": 3,
+          "text": "Hands-on coding and programming projects"
+        },
+        {
+          "id": 4,
+          "text": "Collaborative learning with peers"
+        }
+      ]
+    },
+    {
+      "title": "How do you deal with setbacks or failures?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Analyze what went wrong and find a technical solution"
+        },
+        {
+          "id": 2,
+          "text": "Reframe the problem and find a creative solution"
+        },
+        {
+          "id": 3,
+          "text": "Debug and refactor code to fix the issue"
+        },
+        {
+          "id": 4,
+          "text": "Seek advice and support from team members"
+        }
+      ]
+    },
+    {
+      "title": "When working on a project, what role do you naturally gravitate towards?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Software Developer/Engineer"
+        },
+        {
+          "id": 2,
+          "text": "UI/UX Designer"
+        },
+        {
+          "id": 3,
+          "text": "Full-Stack Developer"
+        },
+        {
+          "id": 4,
+          "text": "Team Player/Collaborator"
+        }
+      ]
+    }
+  ]
+}
